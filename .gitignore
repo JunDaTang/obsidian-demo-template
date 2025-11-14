@@ -31,3 +31,7 @@ desktop.ini
 .obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/workspace-mobile.json
 .trash/
+
+
+默认不开启自动提交同步，不然多电脑容易冲突，可手动把data.json.example重命名为data.json
+.obsidian/plugins/obsidian-git/data.json
